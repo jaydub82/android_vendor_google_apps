@@ -16,6 +16,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/apps/system/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/apps/system/app/MarketUpdater.apk:system/app/MarketUpdater.apk \
     vendor/google/apps/system/app/MediaUploader.apk:system/app/MediaUploader.apk \
+    vendor/google/apps/system/app/Music2.apk:system/app/Music2.apk \
     vendor/google/apps/system/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/apps/system/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/apps/system/app/SetupWizard.apk:system/app/SetupWizard.apk \
@@ -41,8 +42,10 @@ PRODUCT_COPY_FILES += \
     vendor/google/apps/system/lib/libflint_engine_jni_api.so:system/lib/libflint_engine_jni_api.so \
     vendor/google/apps/system/lib/libfrsdk.so:system/lib/libfrsdk.so \
     vendor/google/apps/system/lib/libgcomm_jni.so:system/lib/libgcomm_jni.so \
+    vendor/google/apps/system/lib/libmono.so:system/lib/libmono.so \
     vendor/google/apps/system/lib/libpicowrapper.so:system/lib/libpicowrapper.so \
     vendor/google/apps/system/lib/libspeexwrapper.so:system/lib/libspeexwrapper.so \
+    vendor/google/apps/system/lib/libunity.so:system/lib/libunity.so \
     vendor/google/apps/system/lib/libvideochat_jni.so:system/lib/libvideochat_jni.so \
     vendor/google/apps/system/lib/libvideochat_stabilize.so:system/lib/libvideochat_stabilize.so \
     vendor/google/apps/system/lib/libvoicesearch.so:system/lib/libvoicesearch.so
