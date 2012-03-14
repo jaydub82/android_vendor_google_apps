@@ -16,7 +16,6 @@ PRODUCT_COPY_FILES += \
     vendor/google/apps/system/app/GoogleTTS.apk:system/app/GoogleTTS.apk \
     vendor/google/apps/system/app/MarketUpdater.apk:system/app/MarketUpdater.apk \
     vendor/google/apps/system/app/MediaUploader.apk:system/app/MediaUploader.apk \
-    vendor/google/apps/system/app/Music2.apk:system/app/Music2.apk \
     vendor/google/apps/system/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/apps/system/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/apps/system/app/SetupWizard.apk:system/app/SetupWizard.apk \
