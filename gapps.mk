@@ -1,10 +1,7 @@
 
 #app folder
 PRODUCT_COPY_FILES += \
-    vendor/google/apps/system/app/CalendarGoogle.apk:system/app/CalendarGoogle.apk \
     vendor/google/apps/system/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
-    vendor/google/apps/system/app/EmailGoogle.apk:system/app/EmailGoogle.apk \
-    vendor/google/apps/system/app/ExchangeGoogle.apk:system/app/ExchangeGoogle.apk \
     vendor/google/apps/system/app/GalleryGoogle.apk:system/app/GalleryGoogle.apk \
     vendor/google/apps/system/app/GenieWidget.apk:system/app/GenieWidget.apk \
     vendor/google/apps/system/app/Gmail.apk:system/app/Gmail.apk \
